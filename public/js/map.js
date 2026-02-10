@@ -35,13 +35,14 @@ if (typeof coordinates === "undefined") {
 
   const marker = L.marker([lat, lng], { icon: redIcon }).addTo(map);
 
-  marker.bindPopup(
-    `<h4>${locationName}</h4>
-     <p>Exact Location will be provided after booking</p>`,
-    {
-      className: "fade-popup"
-    }
-  );
+marker.bindPopup(
+  `<h4>${locationName}</h4>
+   <p>Exact Location will be provided after booking</p>`,
+  {
+    className: "fade-popup"
+  }
+);
+
 
   // Smooth zoom
   map.flyTo([lat, lng], 10, {
