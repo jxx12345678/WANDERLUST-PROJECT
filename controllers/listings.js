@@ -39,11 +39,25 @@ module.exports.createListing = async (req, res, next) => {
     const location = req.body.listing.location;
 
   // Free OpenStreetMap geocoding (NO CARD)
+  // const geoResponse = await fetch(
+  //   `https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(
+  //     location
+  //   )}`
+  // );
+
   const geoResponse = await fetch(
-    `https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(
-      location
-    )}`
-  );
+  `https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(
+    location
+  )}&limit=1`,
+  {
+    headers: {
+      "User-Agent": "wanderlust-project (contact: demo@gmail.com)",
+      "Accept": "application/json",
+    },
+  }
+);
+
+
   const geoData = await geoResponse.json();
 
   if (!geoData.length) {
@@ -111,11 +125,24 @@ module.exports.updateListing = async (req, res) => {
 
   // GEOCODING AGAIN
   if (listing.location) {
+    // const geoResponse = await fetch(
+    //   `https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(
+    //     listing.location
+    //   )}`
+    // );
+
     const geoResponse = await fetch(
-      `https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(
-        listing.location
-      )}`
-    );
+    `https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(
+      listing.location
+    )}&limit=1`,
+    {
+      headers: {
+        "User-Agent": "wanderlust-project (contact: demo@gmail.com)",
+        "Accept": "application/json",
+      },
+    }
+  );
+
 
     const geoData = await geoResponse.json();
 
