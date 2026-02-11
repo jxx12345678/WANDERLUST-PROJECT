@@ -73,7 +73,7 @@ Each listing stores geographic coordinates using OpenStreetMap geocoding.
 The location is displayed using Leaflet with animated marker effects.
 
 📦 Installation
-git clone https://github.com/your-username/WANDERLUST-PROJECT.git
+git clone https://github.com/SaikaIslam999/WANDERLUST-PROJECT.git
 cd WANDERLUST-PROJECT
 npm install
 
